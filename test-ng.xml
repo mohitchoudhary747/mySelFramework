@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Jenkins Test 1">
+	<listeners>
+		<listener class-name="org.sel.framework.listners.Listner"></listener>
+	</listeners>
+	<test name="Test Basics 1">
+		<parameter name="org.sel.framework.listners.Listner" value=""></parameter>
+		<classes>
+			<class name="mytest.jenkintests.RunTheseTesOnJunkins"></class>
+		</classes>
+	</test>
+
+</suite>
+
+
