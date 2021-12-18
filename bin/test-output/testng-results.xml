@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-11T05:22:23Z" name="Suite" finished-at="2021-12-11T05:22:40Z" duration-ms="17452">
+    <groups>
+    </groups>
+    <test started-at="2021-12-11T05:22:23Z" name="Test" finished-at="2021-12-11T05:22:40Z" duration-ms="17452">
+      <class name="mytest.conceptTests.ExtentReportsTest">
+        <test-method is-config="true" signature="setUpSuite()[pri:0, instance:mytest.conceptTests.ExtentReportsTest@3688eb5b]" started-at="2021-12-11T10:52:23Z" name="setUpSuite" finished-at="2021-12-11T10:52:23Z" duration-ms="278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpSuite -->
+        <test-method is-config="true" signature="setUpBrowser()[pri:0, instance:mytest.conceptTests.ExtentReportsTest@3688eb5b]" started-at="2021-12-11T10:52:23Z" name="setUpBrowser" finished-at="2021-12-11T10:52:33Z" duration-ms="9461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method signature="firstTest()[pri:0, instance:mytest.conceptTests.ExtentReportsTest@3688eb5b]" started-at="2021-12-11T10:52:33Z" name="firstTest" finished-at="2021-12-11T10:52:35Z" duration-ms="2990" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:mytest.conceptTests.ExtentReportsTest@3688eb5b]" started-at="2021-12-11T10:52:35Z" name="cleanUp" finished-at="2021-12-11T10:52:36Z" duration-ms="82" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method is-config="true" signature="setUpBrowser()[pri:0, instance:mytest.conceptTests.ExtentReportsTest@3688eb5b]" started-at="2021-12-11T10:52:36Z" name="setUpBrowser" finished-at="2021-12-11T10:52:38Z" duration-ms="2855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method signature="secondTest()[pri:0, instance:mytest.conceptTests.ExtentReportsTest@3688eb5b]" started-at="2021-12-11T10:52:38Z" name="secondTest" finished-at="2021-12-11T10:52:40Z" duration-ms="1972" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondTest -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:mytest.conceptTests.ExtentReportsTest@3688eb5b]" started-at="2021-12-11T10:52:40Z" name="cleanUp" finished-at="2021-12-11T10:52:40Z" duration-ms="76" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method is-config="true" signature="tearDownSuite()[pri:0, instance:mytest.conceptTests.ExtentReportsTest@3688eb5b]" started-at="2021-12-11T10:52:46Z" name="tearDownSuite" finished-at="2021-12-11T10:52:46Z" duration-ms="530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownSuite -->
+      </class> <!-- mytest.conceptTests.ExtentReportsTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
